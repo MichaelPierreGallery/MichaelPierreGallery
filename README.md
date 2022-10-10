@@ -34,7 +34,7 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
+[youtube]: https://www.youtube.com/channel/UCCB5JLReJQan71r-rxJ6D2A
 [instagram]: https://www.instagram.com/michael_pierre_gallery/
 [linkedin]: https://linkedin.com/in/mbass1
 
