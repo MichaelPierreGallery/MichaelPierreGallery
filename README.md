@@ -6,11 +6,10 @@
   - [Active Directory Home Lab](https://github.com/MichaelPierreGallery/Active-Directory-Lab)
 - <b>Risk Assessment and Vulnerability Analyses</b>
   - [Penetration Testing Using Multiple Tools/OS](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Kali Linux/Homebrew/Fing)</b></i>
-- <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Setting up Domain-based Message Authentication, Reporting, and Conformance (DMARC) by adding policy to DNS records](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Migrate email domain from GoDaddy to GSuite](https://github.com/joshmadakor1/AD_PS)
+  - [Analyze DMARC emails from domain (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
