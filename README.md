@@ -1,53 +1,74 @@
-<h1>Thank you for entering the gallery, I'm Michael! <br/><a href="https://github.com/MichaelPierreGallery">Programmer</a>, <a href="https://www.linkedin.com/in/mbass1/">Mad Hatter of Cybersecurity</a>, <a href="https://www.instagram.com/michael_pierre_gallery/">Artist</a></h1>
+# Michael Bass
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+**Chicago.** I build cybersecurity programs, security practices, and the software that
+runs them.
 
-- <b>Active Directory Home Lab</b>
-  - [Active Directory Home Lab](https://github.com/MichaelPierreGallery/Active-Directory-Lab)
-- <b>Risk Assessment and Vulnerability Analyses</b>
-  - [Penetration Testing Using Multiple Tools/OS](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Kali Linux/Homebrew/Fing)</b></i>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Setting up Domain-based Message Authentication, Reporting, and Conformance (DMARC) by adding policy to DNS records](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Migrate email domain from GoDaddy to GSuite](https://github.com/joshmadakor1/AD_PS)
-  - [Analyze DMARC emails from domain (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+Most of what I ship is private client work. This profile covers what's mine to share.
 
-<h2>📺 Popular YouTube Videos</h2>
+---
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+## What I'm building
 
-<h2> 🤳 Connect with me:</h2>
+**[IgCE](https://iceprogram.org) — Intergenerational Computer Education**
+A Chicago 501(c)(3) teaching cybersecurity to teens and older adults. The flagship is
+**CyberSecure Teens** — a full curriculum covering fundamentals, social engineering
+defense, network defense, digital forensics, career operations, and CTF practice.
+Graduates go on to paid residencies. Some go straight into their first cyber job.
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+**Paragon Cyber** — a veteran-led security practice
+Cyber specialists with 15–20 years behind them lead the engagements. Certified IgCE
+graduates work under them in a paid residency. The nonprofit trains people, the practice
+employs them, and the practice funds the nonprofit. That loop is the whole point.
 
-[twitter]: https://twitter.com/kalilinux?lang=en
-[youtube]: https://www.youtube.com/channel/UCCB5JLReJQan71r-rxJ6D2A
-[instagram]: https://www.instagram.com/michael_pierre_gallery/
-[linkedin]: https://linkedin.com/in/mbass1
+**ForgeWorks** — *Problem Found — Solution Built*
+Local-business digital services. I audit a business's entire online presence, show them
+exactly what's costing them customers, then build the fix. Nonprofits, retail, sports
+leagues, restaurants.
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**[michaelbass.ai](https://michaelbass.ai)** — my builder hub
+Where the tools live, including the OSINT Console.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Open source
+
+**[second-brain](https://github.com/MichaelPierreGallery/second-brain)** — Build your own
+true assistant, Part 1.
+
+I got tired of re-explaining my business to an AI every morning. So I built a second brain
+out of plain markdown files that any AI can read, write, and keep current — and that I
+actually own.
+
+The first time I ran it against my own machine it found 66 open items. 52 were waiting on
+me. Most took under ten minutes.
+
+The repo has the exact prompt I used, a step-by-step, and what to expect week by week.
+Parts 2 (voice) and 3 (desktop) are coming.
+
+---
+
+## Selected work
+
+Client repos stay private, but here's the shape of it:
+
+- **Email decommissioning pipeline** for a nonprofit with offboarded staff accounts —
+  Gmail API ingestion, AI classification, role-based dashboard, and a runbook that ends
+  in a clean account deletion. A human always runs the destructive steps.
+- **Point-of-sale, inventory and CRM platform** for regulated retail — QR-code customer
+  storefront, age gate, owner dashboard with analytics. Now white-labeled.
+- **Seating and CRM system** for a scholarship foundation's annual gala — 300 seats,
+  two-phase sales, visual seating board, door check-in.
+- **Full site rebuilds** for nonprofits, retailers, artists, and a professional sports
+  league.
+- **[Active Directory Home Lab](https://github.com/MichaelPierreGallery/Active-Directory-Lab)**
+  — where a lot of this started.
+
+22 web properties deployed and counting.
+
+---
+
+## Reach me
+
+- **Site:** [michaelbass.ai](https://michaelbass.ai)
+- **LinkedIn:** [in/mbass1](https://linkedin.com/in/mbass1)
+- **IgCE on YouTube:** [@ice.program](https://youtube.com/@ice.program)
