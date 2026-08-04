@@ -32,6 +32,21 @@ Where the tools live, including the OSINT Console.
 
 ## Open source
 
+**[cyberteam](https://github.com/MichaelPierreGallery/cyberteam)** — a full security team
+review before anything you publish goes public.
+
+You hand it what you're about to post — a repo, a case study, a screenshot, a dataset — and
+it runs six specialist passes, escalates to a CISO-level sign-off, and hands back what
+passed, what needs work, and a recommendation. It doesn't block you. You decide whether to
+accept the risk, with the whole picture in front of you.
+
+I built it because the things that burn people aren't the API key you remembered to check
+for. They're the anonymized case study that still names the client to anyone in that
+industry, the screenshot with real records behind it, and the key you deleted in the next
+commit that's still in the history. You can't unpublish something.
+
+Instruction-only by design — no executable runs as part of a review.
+
 **[second-brain](https://github.com/MichaelPierreGallery/second-brain)** — Build your own
 true assistant, Part 1.
 
