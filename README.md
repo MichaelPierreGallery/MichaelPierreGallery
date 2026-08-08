@@ -58,7 +58,17 @@ The first time I ran it against my own machine it found 66 open items. 52 were w
 me. Most took under ten minutes.
 
 The repo has the exact prompt I used, a step-by-step, and what to expect week by week.
-Parts 2 (voice) and 3 (desktop) are coming.
+
+**[second-brain-voice](https://github.com/MichaelPierreGallery/second-brain-voice)** —
+Part 2: now I talk to it. A wake word, recall answered in ~30 ms from the brain cache,
+Claude Code agents doing real work by voice, and a spoken confirmation gate before
+anything irreversible. On-device speech that fails closed, an origin-gated localhost
+server, zero runtime dependencies. The desktop HUD turned out to be part of the same
+build — my business rendered as a galaxy I can navigate by voice.
+
+**[cyberteam](https://github.com/MichaelPierreGallery/cyberteam)** — the security review
+skill both of those went through before they were published. Seven passes, benchmark
+comparisons, a CISO-level sign-off, and the risk decision stays with you.
 
 ---
 
